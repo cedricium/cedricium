@@ -3,17 +3,18 @@
 Hi, I'm Cedric (he/him)—a full-stack software engineer passionate about 
 building impactful and intuitive products. Previously I worked as a software 
 engineering intern at Moogsoft where I wrangled JavaScript charting libraries 
-and helped improve web app build performance. I reside in Sunnyvale, CA, and 
+and helped improve web app build performance. I currently reside in San Jose, CA, and 
 am a Washington state native. Some little-known facts about me:
 
-✨ I collect screenshots of beautiful landing pages<br />
-☕️ I dunk my Oreos in coffee
+✨&nbsp; I collect screenshots of beautiful landing pages<br />
+☕&nbsp; I dunk my Oreos in coffee<br />
+🖋️&nbsp; I am a fountain pen enthusiast
 
 ## My Values
 
-🗣 open communication<br />
-💞 bonded by love for product<br />
-🌱 safe environment fostering growth<br />
+🗣&nbsp; open communication<br />
+💞&nbsp; bonded by love for product<br />
+🌱&nbsp; safe environment fostering growth<br />
 
 ## My Work Process
 
