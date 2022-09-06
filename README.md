@@ -28,4 +28,4 @@ creative improvisations within any predefined boundaries.
 
 - Twitter: [@cedricamaya](https://twitter.com/cedricamaya)
 - LinkedIn: [/cedricamaya](https://www.linkedin.com/in/cedricamaya)
-- Personal Website: [https://cedric.tech](https://cedric.tech)
+- Personal Website: [https://cedthe.dev](https://cedthe.dev)
